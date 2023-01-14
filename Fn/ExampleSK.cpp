@@ -2,7 +2,7 @@
 #define PI 3.141592653589793f
 
 // LeProxy has been here
-#define LeProxy 0x1337
+#define LeProxy 0x1338
 
 bool ShowMenu = false;
 float BoxWidthValue = 0.550;
