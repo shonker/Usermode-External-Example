@@ -1,6 +1,8 @@
 #include "Includes.h"
-
 #define PI 3.141592653589793f
+
+// LeProxy has been here
+#define LeProxy 0x1337
 
 bool ShowMenu = false;
 float BoxWidthValue = 0.550;
@@ -53,8 +55,6 @@ const MARGINS Margin = { -1 };
 
 static const auto size = ImGui::GetIO().DisplaySize;
 static const auto center = ImVec2(Width / 2, Height / 2);
-
-#define LeProxyHasBeenHere 0x1338
 
 static std::string ReadGetNameFromFName(int key) {
 	uint32_t ChunkOffset = (uint32_t)((int)(key) >> 16);
