@@ -7,9 +7,11 @@ Fortnite Usermode (ExampleSK) <br>
 **Open Source Fornite External** <br>
 
 # Features
-- Aimbot
+- WinApi MouseMovement Aimbot
 - Boxes
 - Corner Boxes
+- Filled Boxes
+- ThreeD Boxes
 - Distance
 - Snaplines
 <br>
