@@ -1,28 +1,20 @@
 # Fortnite-External-Example
-Fortnite Usermode SunSkill Example (ExampleSK) <br>
+Fortnite Usermode (ExampleSK) <br>
 
 
-**UserMode SunSkill Example, Written in C++.** <br>
-**Updated to v23.10 Update** <br>
-**Open Source Fornite External Example** <br>
-
-# Changes
-- Definitions
-- Colors
-- Fonts
-- GUI
-- Preformence
-- Structure <br>
+**CPP UserMode Example** <br>
+**Last Update was to v23.10** <br>
+**Open Source Fornite External** <br>
 
 # Features
 - Aimbot
-- FieldOfView (FOV Circle)
-- Crosshair 
-- PlayerBoxes (Corner, Outlined Etc)
+- Boxes
+- Corner Boxes
 - Distance
 - Snaplines
-- Colors <br>
+<br>
 
-Using Open-Source / Public Kernel Driver <br>
-InstantBan on EAC (EasyAntiCheat), InstantBan on BE (BattleEye). <br>
-**Friday, January 13th, 2023**
+Using Open-Source Usermode Kernel Driver <br>
+Deyected on EasyAntiCheat and BattleEye <br>
+**Posted Friday, January 13th, 2023** <br>
+**Edited Saturday, March 25th, 2023**
